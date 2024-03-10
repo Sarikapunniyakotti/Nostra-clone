@@ -131,9 +131,10 @@ body::-webkit-scrollbar{
 }
 .images{
     display: flex;
+    transition: 2s;
 
 }
-.image-one{
+.slider-image{
     width: 100vw;
 }
 /* Scroll animation */
